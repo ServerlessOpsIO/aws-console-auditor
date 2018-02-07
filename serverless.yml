@@ -1,6 +1,6 @@
 # Log AWS Console login events.
 
-service: serverless-aws-python3-intro
+service: aws-console-auditor
 
 plugins:
   - serverless-python-requirements
